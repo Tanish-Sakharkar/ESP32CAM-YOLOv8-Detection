@@ -13,11 +13,8 @@ Real-time object detection stream using an ESP32-CAM, OpenCV, and YOLOv8.
 
 ## Installation
 
-
-   ```bash
-   git clone [https://github.com/your-username/esp32cam-yolov8-detection.git](https://github.com/your-username/esp32cam-yolov8-detection.git)
-   cd esp32cam-yolov8-detection
-   
+https://github.com/Tanish-Sakharkar/ESP32CAM-YOLOv8-Detection/blob/main/detect.py
+ 
    Install required dependencies:
    pip install opencv-python ultralytics
 
