@@ -13,7 +13,7 @@ Real-time object detection stream using an ESP32-CAM, OpenCV, and YOLOv8.
 
 ## Installation
 
-1. Clone the repository:
+
    ```bash
    git clone [https://github.com/your-username/esp32cam-yolov8-detection.git](https://github.com/your-username/esp32cam-yolov8-detection.git)
    cd esp32cam-yolov8-detection
